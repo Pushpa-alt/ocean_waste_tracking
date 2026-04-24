@@ -1,0 +1,9 @@
+Location,Waste_Type,Quantity,Area_Type,Pollution_Level
+Mumbai,plastic,80,coastal,high
+Goa,glass,30,tourist,medium
+Chennai,plastic,90,coastal,high
+Kerala,organic,40,fishing,low
+Vizag,metal,60,industrial,medium
+Kolkata,plastic,85,industrial,high
+Andaman,organic,20,coastal,low
+Puri,plastic,70,tourist,medium
